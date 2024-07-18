@@ -7,13 +7,13 @@ Python and Java code to send a single message multiple times.
 
     For run this python code:    
 
-        install the required libraries:
+   install the required libraries:
             i) pyautogui: Used for GUI automation.
             ii) pyperclip: Used for clipboard operations.
 
 
-        You can install these using pip:
+   You can install these using pip:
 
                 pip install pyautogui pyperclip
 
-        run the upper line cmd code in the terminal to install the necessary libraries.     
+   run the upper line cmd code in the terminal to install the necessary libraries.     
